@@ -1,4 +1,4 @@
-"This repo is Git material for me."
+"練習　MarkDown"
 "branch test."
 # 任意の見出し
 ## 任意の見出し
@@ -46,4 +46,4 @@
 | hoge3   | hoge3     | hoge3    |
 | hoge4   | hoge4     | hoge4    |
 
-![代替テキスト](画像のURL "画像タイトル")
+![代替テキスト](file:///C:/Users/tetsu/Pictures/%E8%A1%A81.png "画像タイトル")
