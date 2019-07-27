@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string>
-
+//this is StopWattch app
+//コマンドによって、Run・Stop・リセットの状態を切り替える。
 using namespace std;
 
 int ChangeMode(int *p, int order_num){//1:遷移、2:遷移なし
