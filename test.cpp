@@ -2,6 +2,9 @@
 #include <string>
 //this is StopWattch app
 //コマンドによって、Run・Stop・リセットの状態を切り替える。
+//遷移条件はソースコードから読み取ってください。
+
+
 using namespace std;
 
 int ChangeMode(int *p, int order_num){//1:遷移、2:遷移なし
