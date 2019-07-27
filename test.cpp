@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <string>
 //this is StopWattch app
-//コマンドによって、Run・Stop・リセットの状態を切り替える。
-//遷移条件はソースコードから読み取ってください。
+//delete comment
 
 
 using namespace std;
