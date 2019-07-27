@@ -4,8 +4,8 @@ using namespace std;
 
 int main(){
 	printf("Hellow git world!!!\n");
-	
-	printf("add \n");
+	int a =0;
+	printf("addkkk \n");
 	
 	return 0;
 } 
